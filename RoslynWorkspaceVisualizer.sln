@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoslynWorkspaceVisualizer", "RoslynWorkspaceVisualizer\RoslynWorkspaceVisualizer.csproj", "{5FC34B58-95DF-4D04-829E-A9A010F12835}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FC34B58-95DF-4D04-829E-A9A010F12835}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FC34B58-95DF-4D04-829E-A9A010F12835}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FC34B58-95DF-4D04-829E-A9A010F12835}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FC34B58-95DF-4D04-829E-A9A010F12835}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
